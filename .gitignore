@@ -1,0 +1,11 @@
+# Ficheiros de sistema do Mac
+.DS_Store
+
+# Ficheiros compilados do Java (lixo)
+out/
+*.class
+
+# Configurações do IntelliJ (pessoais)
+.idea/
+*.iml
+*.iws
